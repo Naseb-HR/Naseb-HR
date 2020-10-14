@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### ⚡ I’m currently learning R and statistic to do business analytics.
 
-⚡ currently working on python 
+⚡ Currently working on python 
         
         Will be uploading practice work soon 🌱
 <!--
