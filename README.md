@@ -1,5 +1,9 @@
 ### Hi there 👋
+### ⚡ I’m currently learning R and statistic to do business analytics.
 
+⚡ currently working on python 
+        
+        Will be uploading practice work soon 🌱
 <!--
 **Naseb-HR/Naseb-HR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
