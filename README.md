@@ -1,8 +1,15 @@
 ### Hi there 👋
-### ⚡ I’m currently learning R and statistic to do business analytics.
+This is a personal account showcasing personal programming work I have done. All the work is not related to company work and 
 
-⚡ Currently working on python 
-        
+### 🤔 I’m currently learning R and statistic to do business analytics.
+### ⚡ Currently working on python  
+
+Currently working on:
+   - Organogram (Soon) 
+   - Organization Network Analysis (In progress) 
+   - Text Analysis 
+   - Descriptive Webapp using Streamlit (In progress) 
+  
         Will be uploading practice work soon 🌱
 <!--
 **Naseb-HR/Naseb-HR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
