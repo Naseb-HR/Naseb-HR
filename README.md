@@ -1,11 +1,11 @@
 ### Hi there 👋
-This is a personal account showcasing personal programming work I am doing. 
+This is a personal account, showcasing programming work I am doing. 
 
 ### 🤔 I’m currently learning R and statistic to do business analytics.
 ### ⚡ Currently working on python  
 
 ## Completed: 
-- Text Analysis: Finding work count and key word in document using natural language process and wordcloud.
+- Text Analysis: Finding work count and key word in document using Python's natural language process and wordcloud .
     
    
 ## Currently working on:
