@@ -6,10 +6,9 @@ This is a personal account, showcasing programming work I am doing.
 
 ## Completed: 
 - Text Analysis: Finding work count and key word in document using Python's natural language process and wordcloud .
-    
+- Organogram (Work in Progress)     
    
 ## Currently working on:
-   - Organogram (Soon) 
    - Organization Network Analysis (In progress) 
    - Descriptive Webapp using Streamlit (In progress) 
   
