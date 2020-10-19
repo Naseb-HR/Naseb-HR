@@ -5,8 +5,9 @@ This is a personal account, showcasing programming work I am doing.
 ### ⚡ Currently working on python  
 
 ## Completed: 
-- Text Analysis: Finding work count and key word in document using Python's natural language process and wordcloud .
-- Organogram (Work in Progress)     
+- Text Analysis: Finding work count and key word in document using Python's natural language process and wordcloud.
+- Exploratory Data Analysis and visualization.
+- Organogram (Work in Progress).     
    
 ## Currently working on:
    - Organization Network Analysis (In progress) 
