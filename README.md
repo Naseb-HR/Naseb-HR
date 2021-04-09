@@ -1,13 +1,13 @@
 ### Hi there 👋
-This is a personal account, showcasing programming work I am doing. 
+This is my personal Github profile, showcasing python and R programming work I have done. 
 
-### 🤔 I’m currently learning R and statistic to do business analytics.
-### ⚡ Currently working on python  
+### 🤔 I’m currently learning R and linear statistic.
+### ⚡ Currently working with python.  
 
 ## Completed: 
 - Text Analysis: Finding work count and key word in document using Python's natural language process and wordcloud.
 - Exploratory Data Analysis and visualization.
-- Organogram (Work in Progress).     
+- Organization Organogram using R.     
    
 ## Currently working on:
    - Organization Network Analysis (In progress) 
