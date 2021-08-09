@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is my personal Github profile, showcasing python and R programming work I have done. 
 
-### 🤔 I’m currently learning R and linear statistic.
+### 🤔 I’m currently learning R and linear regression.
 ### ⚡ Currently working with python.  
 
 ## Completed: 
